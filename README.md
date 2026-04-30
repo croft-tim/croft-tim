@@ -4,7 +4,7 @@ I've spent most of my career building things — workforce development plans, in
 
 I was the digital technology industry lead at Toi Mai Workforce Development Council, where I wrote New Zealand's first vocational IT workforce development plan and spent years advocating for better pathways into tech. After Toi Mai was disestablished at the end of 2025, I decided to follow my own advice and enrolled at Dev Academy Aotearoa to complete their full-stack software development bootcamp. I wanted to close the loop on the vocational training I'd been advocating for by actually doing it.
 
-Four months later, I build full-stack web applications and I'm looking for my first role as a developer.
+Four months later, I build full-stack web applications and have developed a love of testing code.
 
 ---
 
