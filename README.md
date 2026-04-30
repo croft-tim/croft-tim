@@ -13,7 +13,7 @@ Four months later, I can build full-stack web applications, including TDD.
 | Project | Description | Stack |
 |---|---|---|
 | **WorkStack** | Job, client, and project tracker for tradespeople | React, TypeScript, Node.js, SQLite, Auth0 |
-| **Wellington Typography Society** | Full-stack web app built at Dev Academy as a personal project | TypeScript, React, Node.js, Express, Sass, Vitest |
+| **Wellington Typography Society** | In-progess Full-stack web app built as a personal project | TypeScript, React, Node.js, Express, Sass, Vitest |
 | **Korihi** | Social media app with Auth0 auth and agile team delivery | React, Express, Auth0, Knex |
 
 ---
