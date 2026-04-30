@@ -1,4 +1,4 @@
-# Kia ora, I'm Tim 👋
+# Kia Ora, ko Tim taku ignoa 👋
 
 I've spent most of my career building things — workforce development plans, international partnerships, education strategies — and eventually decided I wanted to build software too.
 
